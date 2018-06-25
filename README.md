@@ -1,19 +1,4 @@
-
-
-
-
-
-<div align="center">
-   <img src = "https://avatars2.githubusercontent.com/u/8798209?s=400&u=305e9db87ab9bedcf0dd9675dcf35bcedc41de9d&v=4" width="150" height="150" /><br>
-   Adhikari S.(Ph.D. Physics)<br>
-</div>
-<br>
-
-**Find me at:** 
-| [Linkedin](https://www.linkedin.com/in/sadhi003/)| [Github](https://github.com/sadhi003) |
- 
- 
-### Projects On Artificial Intelligence
+ ### Projects On Artificial Intelligence
 
 
 ***Project 1.*** [Sudoku](https://github.com/sadhi003/AIND-Sudoku):  
